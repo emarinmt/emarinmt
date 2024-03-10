@@ -1,7 +1,9 @@
 ### Hi there 👋
 Hello👋
-My name is Elena Marín and I amb from Barcelona;
-I am currently in my last semester of the Certificate of Higher Education "Multiplatform Applications Development (DAM)" at the Institut Obert de Catalunya (IOC);
+My name is Elena Marín and I amb from Barcelona.
+
+I am currently in my last semester of the Certificate of Higher Education "Multiplatform Applications Development (DAM)" at the Institut Obert de Catalunya (IOC)
+
 I have a huge interest in data science, as well as back-end developer with Java and Android;
 <!--
 **emarinmt/emarinmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
